@@ -1,0 +1,11 @@
+/*Sedra Haidari 8933534*/
+body{
+    font:normal normal normal 12px/1.5 Arial,Helvetica,sans-serif;
+    width:100w;
+    height:100vh;
+    background-color:hsla(268, 70%,68%,0.5) ;
+}
+h2{
+    color:#f02;
+    font-size:2em;
+}
